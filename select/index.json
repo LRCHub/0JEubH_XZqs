@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "雨のち晴レルヤ",
+  "base_artist": "ゆず",
+  "createdAt": "2025-12-07T12:48:01.676970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雨のち晴レルヤ",
+      "artist": "ゆず",
+      "has_synced": true,
+      "path": "select/01_雨のち晴レルヤ_ゆず.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雨のち晴レルヤ",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/pl_01_雨のち晴レルヤ_ゆず.txt"
+    }
+  ]
+}
